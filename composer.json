@@ -1,5 +1,5 @@
 {
-  "name": "elasticquent/elasticquent",
+  "name": "kiendt/elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
@@ -7,13 +7,12 @@
     "eloquent",
     "laravel"
   ],
-  "homepage": "https://github.com/elasticquent/Elasticquent",
+  "homepage": "https://github.com/virutmath/Elasticquent",
   "license": "MIT",
   "authors": [
     {
-      "name": "Adam Fairholm",
-      "email": "adam.fairholm@gmail.com",
-      "homepage": "http://adamfairholm.com"
+      "name": "Kien Dang",
+      "email": "dangtrungkien89@gmail.com"
     }
   ],
   "require": {
